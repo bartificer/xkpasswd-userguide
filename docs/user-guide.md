@@ -1,4 +1,4 @@
-# User Guide
+# XKPasswd User Guide
 
 When you first go to [xkpasswd.net](https://xkpasswd.net) while the project is in beta, you'll see an explanation of how this tool is being ported from old and busted Perl code to modern web development languages including JavaScript. You'll be invited to push the "Use the Beta" button to get started. 
 
@@ -8,7 +8,7 @@ If you want to skip this step, go directly to the beta version at [beta.xkpasswd
 
 The tool is not yet feature-complete, but what you can use is functioning properly. If any feature is not functioning properly when you visit the tool, you'll see it labeled as such.
 
-### Generate Password(s) with Default Configuration 
+### Generate Password(s) with Default Configuration <!-- {docsify-ignore} --> 
 
 If you don't want to fuss around with any kind of settings to generate your passwords, you can simply enter the desired number of passwords and hit the Generate button. By default, this will create 3 highly-complex passwords of the following configuration:
 

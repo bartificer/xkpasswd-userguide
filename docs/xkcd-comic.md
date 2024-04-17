@@ -9,4 +9,4 @@ Steve Gibson also influenced the project with his Password Haystacks page at
 
 This concept is the basis for the math behind creating long, strong, memorable, and typable passwords using XKPASSWD.
 
-![XKCD drew a comic on the subject of password strength](https://imgs.xkcd.com/comics/password_strength.png) 
+[![XKCD comic on the subject of password strength](https://imgs.xkcd.com/comics/password_strength.png)](https://xkcd.com/936/)
