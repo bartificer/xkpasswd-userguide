@@ -31,6 +31,12 @@ The second radio button lets you view the same password list as a block of text 
 
 ![Preselected block of passwords ready to be copied](assets/passwords-block-of-text.png)
 
+## Pass Word Strength and Entropy
+
+Whether you choose one of the presets or if you use the Settings section to tailor your own password, if you see all green for Strength and the entropy values when you’ve generated your passwords, you can be confident that you have terrific passwords from which to choose.
+
+If you’d like to know a little more, please see [Interpreting Strength and Entropy Statistics](Statistics-entropy.md)
+
 ## Presets
 
 For ease of use, XKPASSWD comes with a set of predefined presets. Presets can be used as-is, or, they can be used as a starting point for creating your own configuration. 
