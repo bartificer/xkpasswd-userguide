@@ -4,7 +4,9 @@
 
 This new version is being developed primarily by Helma van der Linden along with other open source contributors. If you'd like to get involved in the development, including adding to the wishlist for features, read more [here](help-xkpasswd.md).
 
-## Philosophy 
+[Jump to the XKPasswd User Guide](user-guide)
+
+## Philosophy
 
 More and more of the things we do on our computer require passwords, and at the same time, it seems we hear about organisations or sites losing user databases on every day that ends in a 'y'. If we re-use our passwords we expose ourselves to an ever greater risk, but we need more passwords than we can possibly remember or invent. Coming up with one good password is easy, but coming up with one good password a week is a lot harder, let alone one a day! 
 
@@ -21,7 +23,7 @@ XKPASSWD uses words to make up the bulk of the passwords it generates, but it al
 In short, XKPASSWD is for people who prefer passwords that look like this: 
 
 `!15. play-MAJOR.fresh.FLAT. 23!`
-  
+
 to passwords that look like this: 
 
 `eB8.GJXa@TuM`
