@@ -2,6 +2,8 @@
 
 XKPasswd is a web app designed to help you create long, strong, and yet memorable _and_ typable passwords.
 
+[Jump to the XKPasswd User Guide](user-guide)
+
 #### What's the Problem to be Solved?
 
 We all know we should be using long, strong passwords, but we tend to fall back on bad habits because they're hard to remember and hard to type, especially on mobile devices, or even worse – on a printer.
