@@ -124,6 +124,7 @@ The Settings section allows you to tailor passwords to your specifications. Sett
 The Words part of Setting is pretty self-explanatory. In the current version, the only Dictionary available is English, but it's on the roadmap to have more dictionaries. You can set the number of words and the minimum and maximum length of the words. The shortest length allowable is 4 characters, while the maximum length is allowable is 12. You can set both min and max to the same value.
 
 ![Max length set to 2 which throws an error saying to choose 4-12](assets/max-length-error.png)
+
 _Error thrown if value isn't 4-12 characters_
 
 ### Transformations
