@@ -137,7 +137,7 @@ Including both upper and lower case letters in your password dramatically increa
 * UPPER CASE
 * EVERY word randomly CAPITALISED or NOT
 
-Note that the last option will not always generate a password with both upper and lower case letters, as it's random whether each word will be capitalized or not.
+Note that the last option will not always generate a password with both upper and lower case letters, as it's random whether each word will be capitalised or not.
 
 ### Separators
 
